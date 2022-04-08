@@ -1,0 +1,28 @@
+h1 {
+  color: yellow;
+  background-color: black;
+  font-size: 36px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+/* p{
+  background-color:yellow;
+  color: green;
+} */
+
+.text {
+  color: purple;
+  background: orange;
+}
+
+#txt {
+  color: pink;
+  background-color: brown;
+}
+.text-centered {
+  text-align: center;
+}
